@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  master: 1
+  description: MyText
+  start: 2013-03-24 12:08:11
+  end: 2013-03-24 12:08:11
+  application_period: 2013-03-24 12:08:11
+  total_work: 1
+  state: 1
+
+two:
+  title: MyString
+  master: 1
+  description: MyText
+  start: 2013-03-24 12:08:11
+  end: 2013-03-24 12:08:11
+  application_period: 2013-03-24 12:08:11
+  total_work: 1
+  state: 1
